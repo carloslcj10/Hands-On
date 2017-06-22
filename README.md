@@ -16,7 +16,20 @@ How to execute:
 6) Digitar o comando: java -jar Hands-On.jar
 
 
-**********
+************
+How to mount
+
+1) Criar um novo projeto java com nome Hands-On.
+2) Dentro do projeto java criar um package com nome app.
+3) Dentro do package app Importa as classes Main.java,App.java e Entry.jav.a
+4) Dentro do projeto criar uma pasta com nome lib e importas as libs org-apache-commons-logging.jar, org-apache-commons-logging.jar	httpclient-4.3-beta2.jar,	apache-commons-lang.jar.
+5) adicionar ao build path as libs do item anterior.
+6) Dentro do projeto colocar o arquivo data.txt.
+7) executar o projeto apartir da class Main.
+
+
+
+
 Obs.: o arquivo data.txt é usado como input da aplicação. Ele deve ser preenchido conforme o exemplo.
 cada linha representa uma entra e cada coluna da linha é respectivamente o SLO desejado para Respostas bem-sucedidas e o SLO Respostas rápidas.
 
